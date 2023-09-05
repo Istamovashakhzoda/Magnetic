@@ -18,5 +18,3 @@ let btn = document.querySelectorAll(".btn").forEach((btn) => {
     });
   });
   
-  
-//   Resources
